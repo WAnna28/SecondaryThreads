@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondaryThreads", "SecondaryThreads.csproj", "{7D605B8F-43D9-48B2-9653-19D32BAFD635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D605B8F-43D9-48B2-9653-19D32BAFD635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D605B8F-43D9-48B2-9653-19D32BAFD635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D605B8F-43D9-48B2-9653-19D32BAFD635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D605B8F-43D9-48B2-9653-19D32BAFD635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F0FD1E-206F-4467-8449-2AA7E814B4E3}
+	EndGlobalSection
+EndGlobal
